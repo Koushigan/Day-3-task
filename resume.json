@@ -1,0 +1,43 @@
+{
+    "basics":{ 
+	"name": "Koushik",
+	"bio_data": {
+		"email": "r.koushigan2000@gmail.com",
+		"phone": "7550159272",
+		"objectives":"I want to secure a position in a company that challenges my skills, updates my current knowledge, and sharpens my training"            
+		},
+		"skills": {
+			"details": {
+					"type": "Softwares",
+					"items": [
+						"Adobe",
+						"DaVinci Resolve",
+						"Blender",
+						"After Effects",
+						"Premiere Pro",
+						"JavaScript",
+					  "Houdini",
+					  "Unreal Engine"
+					]
+            }
+                },
+		"education": {
+			"schools": [{
+					"degree": "Bachelor of Science",
+					"major": "Biotechnology",
+					"institution": "Vivekananda College",
+					"graduation_year": 2022,
+					"gpa": "7.28"
+				},
+				{
+					"degree": "HSC",
+					"major": "Biology",
+					"institution": "St.Patrick's AIHSS",
+					"graduation_year": 2019,
+					"marks": "379/600"
+				}
+			]
+		}
+    }
+}
+   
